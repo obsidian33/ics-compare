@@ -1,0 +1,5 @@
+package icscompare
+
+func main() {
+
+}
