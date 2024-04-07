@@ -4,22 +4,24 @@
 *.dll
 *.so
 *.dylib
+
+# Test binary, built with `go test -c`
 *.test
 
 # Output of the go coverage tool
 *.out
 
 # Dependency directories (remove these lines if you want to check in vendor)
-vendor/
-Gopkg.lock
-go.sum
-go.mod
+# vendor/
 
 # Ignore IDE and editor files
 .vscode/
 .idea/
 *.swp
 *.swo
+
+# Go workspace file
+go.work
 
 # Miscellaneous
 .DS_Store
