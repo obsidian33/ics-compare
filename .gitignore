@@ -1,0 +1,27 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Dependency directories (remove these lines if you want to check in vendor)
+vendor/
+Gopkg.lock
+go.sum
+go.mod
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Miscellaneous
+.DS_Store
+.env
+.env.local
