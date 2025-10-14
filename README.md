@@ -1,3 +1,1 @@
-```mermaid
-info
-```
+Small script to compare two ics files.
